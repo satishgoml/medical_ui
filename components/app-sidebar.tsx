@@ -20,7 +20,7 @@ const items = [
   },
   {
     title: "Manage Documents",
-    url: "/documents",
+    url: "/files",
     icon: BookDashed,
   }
 ]
